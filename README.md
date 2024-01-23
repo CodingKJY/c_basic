@@ -1,10 +1,10 @@
 # C Basic Programming
 ### Units
-1. Data types, Variables, and Operators
-2. Control Flow: Logic statements
-3. Control Flow: Iteration and Loops
-4. Function introduction
-5. Array
+1. Variables, Operators, Standard I/O, and Control Flow
+2. Iteration and Loops
+3. Function and Variable Types
+4. Array and String
+5. Higher Dimension Array
 6. Pointer
 7. File I/O
 8. Dynamic Memory Allocation
