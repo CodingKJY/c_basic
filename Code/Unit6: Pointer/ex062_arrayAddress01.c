@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void){
-    int     array[5] = {1, 2, 3, 4, 5};
+    int array[5] = {1, 2, 3, 4, 5};
 
     printf("address of array: %p\n", array);
     // run indice
